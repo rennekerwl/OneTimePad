@@ -1,0 +1,2 @@
+This is an implimentation of a one time key pad cipher written in python 3.3.
+Encryption keys can be generated pseudorandomly using the random module and saved for later use.  Alternatively, other premade keys can be loaded as well.
