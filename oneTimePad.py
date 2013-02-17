@@ -125,7 +125,7 @@ def main():
                     key = read_key(keyFile)
                     clearText = decode_cipher(cipherText, key)
                     print(clearText)
-        elif EorD == 'Q':
+        elif eOrD == 'Q':
             sys.exit()
         else:
             print('Not a valid choice')
